@@ -1,0 +1,29 @@
+operator     variance     max error   min error
+area            57.45      276.69        0.005
+max angle      256.59      828.12        0.17
+min angle      454.24      584.05        0.18
+max side         2.74      229.00        0.118
+min side         1.69      799.64        0.64
+
+
+multiple linear regression
+All                         77.58        0.007
+
+
+multiple polynomial regression(degree = 4)
+All                         24.45        0.0005
+
+
+multiple polynomial regression(degree = 8)
+All                         
+
+random forest               18.49        0.002
+
+
+
+
+
+
+
+
+

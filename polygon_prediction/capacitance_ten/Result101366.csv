@@ -1,0 +1,14 @@
+Setup1:LastAdaptive
+Problem Type:  C
+C Units:pF, G Units:mSie
+Reduce Matrix:  GroundNetMatrix1
+Frequency:  500MHz
+
+Capacitance Matrix
+,Polyline1,
+Polyline1, 0.73664
+
+Conductance Matrix
+,Polyline1,
+Polyline1, 0.03887
+
